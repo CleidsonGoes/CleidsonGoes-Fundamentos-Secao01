@@ -1,2 +1,2 @@
-# CleidsonGoes-Fundamentos-Secao01
-Fundamentos seção 01
+# CleidsonGoes-Fundamentos-Secao02
+Exercícios de Fundamentos seção 02
