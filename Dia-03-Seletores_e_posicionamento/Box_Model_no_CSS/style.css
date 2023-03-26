@@ -4,11 +4,12 @@
     line-height: 50px;
     text-align: center;
     vertical-align: top;
+    height: 50px;
+    width: 50px;
   }
   
   .width-and-height {
-    height: 50px;
-    width: 50px;
+    
   }
   
   /* insira na classe abaixo um padding de 20px para aplicá-lo aos itens B, C e D */
