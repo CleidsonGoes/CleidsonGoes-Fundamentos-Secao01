@@ -1,0 +1,24 @@
+h2 {
+    color: red;
+}
+
+#clasification {
+    color: orange;
+}
+
+#subespecime {
+    color: yellow;
+}
+
+body {
+    background-color: rgb(100,700,300);
+}
+
+#titleLion {
+    color: purple;
+}
+
+.list-personalize {
+    background-color: yellowgreen;
+    color: blueviolet;
+}
