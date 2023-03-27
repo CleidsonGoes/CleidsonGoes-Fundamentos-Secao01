@@ -50,7 +50,6 @@ ul li:nth-of-type(5) a:hover {
 #linguagens li:not(:nth-child(n + 4)) {
     color: blue;
 }
-
 .pink-bg {
     background-color: pink;
 }
