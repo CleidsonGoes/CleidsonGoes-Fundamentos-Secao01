@@ -12,4 +12,5 @@ li:active {
 
 ol,ul {
     list-style:circle;
+    text-align: justify;
 }
