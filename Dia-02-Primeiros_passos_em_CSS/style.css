@@ -35,7 +35,7 @@ body {
     border-color: blueviolet;
 }
 
-#paragraphDescription {
+p {
     background-color: brown;
     margin: 10px 0px;
     border: 5px solid;
@@ -46,4 +46,5 @@ body {
 .list-personalize {
     background-color: yellowgreen;
     color: blueviolet;
+    padding-left: 20px;
 }
