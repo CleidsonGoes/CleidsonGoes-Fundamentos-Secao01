@@ -75,6 +75,10 @@ body {
     width: 100%;
 }
 
+#catSmall {
+    width: 100%;
+}
+
 #h2Description {
     font-family: var(--fonte-destaque);
 }
