@@ -36,6 +36,20 @@ header {
     padding: 10px;
 }
 
+header > h1 {
+    color: white;
+    font-size: 3em;
+}
+
+header > nav {
+    font-family: var(--fonte-padrao);
+    font-size: 1.2em;
+}
+
+header > nav > a {
+    color: white;
+}
+
 body {
     background-color: var(--cor4);
     padding: 10px;
